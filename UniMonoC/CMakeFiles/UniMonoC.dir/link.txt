@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/UniMonoC.dir/main.c.o CMakeFiles/UniMonoC.dir/text_analysis.c.o CMakeFiles/UniMonoC.dir/text_generation.c.o CMakeFiles/UniMonoC.dir/utilities.c.o -o UniMonoC

@@ -1,0 +1,4 @@
+Cannot generate into /Users/emanuelestorci/Documents/c/UniMonoC
+It is already used for project /Users/emanuelestorci/Documents/UniMonoC
+
+Please either delete it manually or select another generation directory

@@ -1,0 +1,12 @@
+!,previsioni,1
+?,cosa,0.5000,previsioni,0.5000
+le,previsioni,1
+dicono,le,1
+cosa,dicono,1
+domani,?,1
+del,tempo,1
+tempo,incerto,0.3333,di,0.3333,?,0.3333
+incerto,!,1
+oggi,tempo,1
+previsioni,di,0.3333,del,0.6667
+di,domani,0.5000,oggi,0.5000

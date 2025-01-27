@@ -1,0 +1,3 @@
+/Users/emanuelestorci/Documents/UniMonoC/CMakeFiles/UniMonoC.dir
+/Users/emanuelestorci/Documents/UniMonoC/CMakeFiles/edit_cache.dir
+/Users/emanuelestorci/Documents/UniMonoC/CMakeFiles/rebuild_cache.dir
