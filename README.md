@@ -1,4 +1,4 @@
-A project developed in C for the Operating Systems II course of my Uni. The program performs text analysis by generating a word frequency table and uses it to produce random text based on calculated word frequencies. It supports both single-process and multi-process execution modes, demonstrating inter-process communication and concurrency.
+A project developed in C. The program performs text analysis by generating a word frequency table and uses it to produce random text based on calculated word frequencies. It supports both single-process and multi-process execution modes, demonstrating inter-process communication and concurrency.
 
 **Features**
 - Parses Italian text to compute word occurrence frequencies
